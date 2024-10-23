@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_262 (Oracle Corporation)
+
+Name: res/drawable/background.png
+SHA1-Digest: ahR5Hoki0av8yu+BDJGgOMbPEcY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: JDxOC9sMnfZMT6SsbD+GFxUIFkY=
+
+Name: res/layout/mainrelative.xml
+SHA1-Digest: CzINdb/42BhYeB0nlGJ9lfgt+2c=
+
+Name: res/layout/main.xml
+SHA1-Digest: jfRyFwHuweQk0gyefVhufGQWN+U=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: XDuOI/OTq4xoJAAavhWDFNintTM=
+
+Name: resources.arsc
+SHA1-Digest: gbL1MeEjU+Hi+fVJYhW6D4kNzPU=
+
+Name: res/drawable/green_checked.png
+SHA1-Digest: axCSwJ8Wj5kaNLIGiytTraeZFng=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: XDuOI/OTq4xoJAAavhWDFNintTM=
+
+Name: classes.dex
+SHA1-Digest: S6lur+O/N3hW7Ca8cBEjkKkFsnk=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: XDuOI/OTq4xoJAAavhWDFNintTM=
+

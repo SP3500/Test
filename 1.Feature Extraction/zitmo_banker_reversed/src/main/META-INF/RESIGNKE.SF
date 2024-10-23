@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: u56JOjOWg4XLLQU/6wh68/S18p0=
+SHA1-Digest-Manifest: yRUvX/7DylOBJtBl1Gp4jYeC4RQ=
+Created-By: 1.8.0_262 (Oracle Corporation)
+
+Name: res/drawable/background.png
+SHA1-Digest: hYfiE8Ugf5j1AwS2w9jun4MeF6s=
+
+Name: AndroidManifest.xml
+SHA1-Digest: fA1oSHY+QHerQR5LQSAacr71L+k=
+
+Name: res/layout/mainrelative.xml
+SHA1-Digest: ijduBquG7NgQ0NOOgQ04r7UAhKE=
+
+Name: res/layout/main.xml
+SHA1-Digest: 9JrPKzEzVGiSRV/D+sWIld4kHok=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Ml86nsmdpzmdSsw47I1SOf2G0aw=
+
+Name: resources.arsc
+SHA1-Digest: +0hBpXjQvHsYUNa5giotGd2BfH8=
+
+Name: res/drawable/green_checked.png
+SHA1-Digest: gqKzBVua2LGI2BENxnHV9q4fne8=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: ckM4p31ojgfoe1LOZV2wmYO80VQ=
+
+Name: classes.dex
+SHA1-Digest: DY6beOg8iFdJuJFrKIv54wWtIgs=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: /USLESFbqKKRszW/E41N3bsHDGs=
+

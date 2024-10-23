@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <EditText android:id="@+id/editText1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <requestFocus/>
+    </EditText>
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Medium Text" android:layout_above="@+id/editText1" android:layout_centerHorizontal="true"/>
+    <ImageView android:id="@+id/imageView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/green_checked" android:layout_alignRight="@+id/editText1"/>
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="60dp" android:text="Medium Text" android:layout_toRightOf="@+id/imageView1" android:layout_above="@+id/textView1"/>
+</RelativeLayout>
